@@ -31,7 +31,7 @@ Installation:
 # 📝 Practice Makes Perfect
 
 
-Feel free to use the repo.py file located in the root directory to practice the concepts you've learned throughout the book. This file includes exercises designed to reinforce your understanding and help you become more comfortable with Python programming. Happy coding!
+Feel free to use the test.py file located in the root directory to practice the concepts you've learned throughout the book. This file includes exercises designed to reinforce your understanding and help you become more comfortable with Python programming. Happy coding!
 
 # 🎮 Final Project: UNO Game:
 
